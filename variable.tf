@@ -45,7 +45,7 @@ variable "organizations" {
   }))
   default = [{
     type        = "work"
-    cost_center = "Alterstay"
+    cost_center = " "
     department  = " "
     description = " "
     primary     = true
